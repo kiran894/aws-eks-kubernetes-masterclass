@@ -3,6 +3,7 @@
 ## Step-00: Introduction
 - Understand about EKS Core Objects
   - Control Plane
+      - Contains Kunernetes Master components like etcd, kube-apiserver, kube-controller. its managed service by aws.
   - Worker Nodes & Node Groups
   - Fargate Profiles
   - VPC
